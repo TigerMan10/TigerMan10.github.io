@@ -36,7 +36,15 @@
     }
     .plan-price {font-size: 250;}
     .contact-form {width: 80%;}
-
+    
+.social-links{
+        text-align: center;
+        float: none; 
+    }
+    .footer-nav{
+        text-align: center;
+        float: none; 
+    }
 
 }
 
