@@ -76,6 +76,16 @@
     .works-step:last-of-type {margin-bottom: 20px;}
 
 
+    .social-links{
+        text-align: center;
+        float: none; 
+    }
+    .footer-nav{
+        text-align: center;
+        float: none; 
+    }
+
+
 
 }
 
