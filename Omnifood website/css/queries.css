@@ -92,8 +92,14 @@
         text-align: center;
         float: none; 
         font-size: 75%;
-        
     }
+
+.hero-text-box{
+    font-size:130%;
+}
+.main-nav{
+    font-size:70%;
+}
 
 
 
