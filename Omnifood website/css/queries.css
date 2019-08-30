@@ -96,9 +96,16 @@
 
 .hero-text-box{
     font-size:130%;
+    padding-top: 150px;
 }
 .main-nav{
-    font-size:70%;
+    text-align: center;
+    margin-right: 22px;
+    font-size:70%;  
+}
+
+a{
+    font-size: 70%;   
 }
 
 }
@@ -119,9 +126,13 @@
     
     .hero-text-box{
     font-size:130%;
+     padding-top: 150px;
 }
 .main-nav{
+   text-align: center;
+    margin-right: 22px;
     font-size:70%;
 }
+    a{font-size: 70%;}
 
 }
