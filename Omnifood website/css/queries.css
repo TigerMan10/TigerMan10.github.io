@@ -95,13 +95,13 @@
     }
 
 .hero-text-box{
-    font-size:130%;
-    padding-top: 150px;
+    font-size:150%;
+    padding-top: 80px;
 }
 .main-nav{
     text-align: center;
     margin-right: 22px;
-    font-size:70%;  
+    font-size:100%;  
 }
 
 a{
@@ -136,3 +136,4 @@ a{
     a{font-size: 70%;}
 
 }
+.
