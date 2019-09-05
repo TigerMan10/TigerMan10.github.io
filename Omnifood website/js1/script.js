@@ -3,10 +3,8 @@
      if (direction == "down"){
        $('nav').addClass('sticky');
      }else{
-       $('nav').removeClass('sticky');
+       $('nav').removeClass('sticky')
      }
-     },{
-       offset:'60px'
    });
     
 });

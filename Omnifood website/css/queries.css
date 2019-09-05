@@ -63,7 +63,7 @@
     main-nav {display: none;}
 
     h1 {font-size:180%;}
-    h2 {font-size:150%;}    }
+    h2 {font-size:150%;}    
 
     .long-copy {
         width: 100%;
@@ -107,9 +107,22 @@
 
 a{
     font-size: 70%;   
-}
+} 
+
+.sticky .main-nav li a:link,
+  .sticky .main-nav li a:visited {
+      font-size: 8px;
+       
+   }
+   .sticky .logo-black {height: 25px;}
+   .sticky .main-nav {margin-top: 7px;}
+
+
 
 }
+
+
+
 
 /* Small phones: from o to 480px */
 @media only screen and (max-width: 480px){
@@ -135,6 +148,14 @@ a{
     font-size:70%;
 }
     a{font-size: 70%;}
+
+    .sticky .main-nav li a:link,
+  .sticky .main-nav li a:visited {
+      font-size: 6px;
+       
+   }
+   .sticky .logo-black {height: 20px;}
+   .sticky .main-nav {margin-top: 5px;}
    
 }
 
