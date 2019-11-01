@@ -108,6 +108,21 @@
     
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
+
+    .social-links{
+        text-align: center;
+        float: none; 
+    }
+
+    .footer-nav{
+        text-align: center;
+        float: none; 
+        font-size: 75%;
+    }
+    .btn-app img{
+        height: 38px;
+        
+    }
     
 }
 
